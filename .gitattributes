@@ -1,0 +1,3 @@
+# Team copy: every file is checked out byte for byte, on every system. Git for Windows converts line
+# endings by default, and a CRLF checkout breaks every .sh in this folder.
+* -text
